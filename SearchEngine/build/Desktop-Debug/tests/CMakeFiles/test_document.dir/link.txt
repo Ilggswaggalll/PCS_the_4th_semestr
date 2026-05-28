@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_document.dir/test_document_autogen/mocs_compilation.cpp.o CMakeFiles/test_document.dir/test_document.cpp.o CMakeFiles/test_document.dir/__/src/Document.cpp.o -o test_document  /opt/homebrew/lib/libCatch2Main.a /opt/homebrew/lib/libCatch2.a

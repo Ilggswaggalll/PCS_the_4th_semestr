@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/scenario_06_empty_query.dir/scenario_06_empty_query_autogen/mocs_compilation.cpp.o CMakeFiles/scenario_06_empty_query.dir/scenarios/scenario_06_empty_query.cpp.o -o scenario_06_empty_query

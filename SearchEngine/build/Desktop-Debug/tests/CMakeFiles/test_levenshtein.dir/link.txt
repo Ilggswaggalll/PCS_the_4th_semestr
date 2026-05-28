@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_levenshtein.dir/test_levenshtein_autogen/mocs_compilation.cpp.o CMakeFiles/test_levenshtein.dir/test_levenshtein.cpp.o -o test_levenshtein  /opt/homebrew/lib/libCatch2Main.a /opt/homebrew/lib/libCatch2.a

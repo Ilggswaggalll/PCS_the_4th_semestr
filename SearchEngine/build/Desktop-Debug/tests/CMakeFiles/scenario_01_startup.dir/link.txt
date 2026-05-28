@@ -1,0 +1,1 @@
+/usr/bin/clang++ -DQT_QML_DEBUG -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/scenario_01_startup.dir/scenario_01_startup_autogen/mocs_compilation.cpp.o CMakeFiles/scenario_01_startup.dir/scenarios/scenario_01_startup.cpp.o -o scenario_01_startup

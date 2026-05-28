@@ -1,0 +1,191 @@
+{
+	"BUILD_DIR" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_08_multiple_docs_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/tests",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/tests/CMakeLists.txt",
+		"/opt/homebrew/lib/cmake/Catch2/Catch2ConfigVersion.cmake",
+		"/opt/homebrew/lib/cmake/Catch2/Catch2Config.cmake",
+		"/opt/homebrew/lib/cmake/Catch2/Catch2Targets.cmake",
+		"/opt/homebrew/lib/cmake/Catch2/Catch2Targets-release.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Config.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtFeature.cmake",
+		"/opt/homebrew/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.9.0/lib/cmake/Qt6/QtPublicWindowsHelpers.cmake",
+		"/opt/homebrew/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+		"/opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_08_multiple_docs_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "scenario_08_multiple_docs_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_08_multiple_docs_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_08_multiple_docs_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NO_DEBUG" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/tests",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/include",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/tests/scenarios",
+		"/opt/homebrew/lib/QtCore.framework/Headers",
+		"/opt/homebrew/lib/QtCore.framework",
+		"/opt/homebrew/share/qt/mkspecs/macx-clang",
+		"/opt/homebrew/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1",
+		"/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include",
+		"/Library/Developer/CommandLineTools/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"/opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_08_multiple_docs_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_01_startup_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_02_indexing_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_03_exact_search_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_04_fuzzy_search_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_05_not_found_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_06_empty_query_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_07_empty_folder_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_document_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_indexer_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_inverted_index_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_levenshtein_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_search_engine_autogen/mocs_compilation.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 11,
+	"PARSE_CACHE_FILE" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/CMakeFiles/scenario_08_multiple_docs_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/CMakeFiles/scenario_08_multiple_docs_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/src/Document.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/src/DocumentFactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/src/Indexer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/src/InvertedIndex.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/src/SearchEngine.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/src/SearchStrategy.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/tests/scenarios/scenario_08_multiple_docs.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_01_startup_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_02_indexing_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_03_exact_search_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_04_fuzzy_search_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_05_not_found_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_06_empty_query_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/scenario_07_empty_folder_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_document_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_indexer_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_inverted_index_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_levenshtein_autogen/mocs_compilation.cpp",
+		"/Users/ilgizkazakbaev/Desktop/\u0412\u0423\u0417/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c/\u041f\u0420\u041e\u0415\u041a\u0422 4 \u0441\u0435\u043c\u0435\u0441\u0442\u0440/SearchEngine/build/tests/test_search_engine_autogen/mocs_compilation.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

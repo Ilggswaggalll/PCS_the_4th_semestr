@@ -1,0 +1,16 @@
+test_levenshtein 2 0.0167417
+test_document 2 0.0144523
+test_inverted_index 2 0.0143211
+test_indexer 2 0.0289397
+test_search_engine 2 0.0204369
+scenario_01_startup 2 0.00802219
+scenario_02_indexing 2 0.0151336
+scenario_03_exact_search 2 0.014785
+scenario_04_fuzzy_search 2 0.0145744
+scenario_05_not_found 2 0.0139177
+scenario_06_empty_query 2 0.00180696
+scenario_07_empty_folder 2 0.0139859
+scenario_08_multiple_docs 2 0.0141957
+scenario_09_repeated_search 2 0.0141293
+scenario_10_reindex 2 0.0129418
+---

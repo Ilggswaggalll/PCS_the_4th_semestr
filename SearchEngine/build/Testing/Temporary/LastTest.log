@@ -1,0 +1,365 @@
+Start testing: May 25 12:52 MSK
+----------------------------------------------------------
+1/15 Testing: test_levenshtein
+1/15 Test: test_levenshtein
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/test_levenshtein"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"test_levenshtein" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+Randomness seeded to: 459030129
+===============================================================================
+All tests passed (7 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_levenshtein" end time: May 25 12:52 MSK
+"test_levenshtein" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/15 Testing: test_document
+2/15 Test: test_document
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/test_document"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"test_document" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+Randomness seeded to: 938218391
+===============================================================================
+All tests passed (10 assertions in 6 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_document" end time: May 25 12:52 MSK
+"test_document" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/15 Testing: test_inverted_index
+3/15 Test: test_inverted_index
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/test_inverted_index"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"test_inverted_index" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+Randomness seeded to: 370790886
+===============================================================================
+All tests passed (8 assertions in 6 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_inverted_index" end time: May 25 12:52 MSK
+"test_inverted_index" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/15 Testing: test_indexer
+4/15 Test: test_indexer
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/test_indexer"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"test_indexer" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+Randomness seeded to: 1982474273
+Total documents loaded: 0
+Indexing complete. Unique words in index: 0
+Loaded: b.txt
+Loaded: a.txt
+Total documents loaded: 2
+DEBUG: Found 1 words. First 10:
+  'dog'
+Indexing complete. Unique words in index: 2
+Loaded: test.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 3
+Loaded: test.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 2
+Loaded: test.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 1
+===============================================================================
+All tests passed (7 assertions in 5 test cases)
+
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"test_indexer" end time: May 25 12:52 MSK
+"test_indexer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/15 Testing: test_search_engine
+5/15 Test: test_search_engine
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/test_search_engine"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"test_search_engine" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+Randomness seeded to: 1493148260
+Loaded: b.txt
+Loaded: a.txt
+Total documents loaded: 2
+DEBUG: Found 1 words. First 10:
+  'hello'
+Indexing complete. Unique words in index: 1
+Loaded: test.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 2
+Loaded: test.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 1
+Loaded: test.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 2
+===============================================================================
+All tests passed (5 assertions in 5 test cases)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test_search_engine" end time: May 25 12:52 MSK
+"test_search_engine" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/15 Testing: scenario_01_startup
+6/15 Test: scenario_01_startup
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_01_startup"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_01_startup" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 1: Запуск программы
+✅ PASSED: Приложение запускается
+ℹ️ Ручная проверка интерфейса: заголовок, поле ввода, кнопки должны присутствовать
+sh: ./../build/search_engine: No such file or directory
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_01_startup" end time: May 25 12:52 MSK
+"scenario_01_startup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/15 Testing: scenario_02_indexing
+7/15 Test: scenario_02_indexing
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_02_indexing"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_02_indexing" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 2: Индексация папки с текстовыми файлами
+Loaded: file2.txt
+Loaded: file3.txt
+Loaded: file1.txt
+Total documents loaded: 3
+DEBUG: Found 2 words. First 10:
+  'goodbye'
+  'moon'
+Indexing complete. Unique words in index: 5
+✅ PASSED: Папка загружена, документов: 3
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_02_indexing" end time: May 25 12:52 MSK
+"scenario_02_indexing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/15 Testing: scenario_03_exact_search
+8/15 Test: scenario_03_exact_search
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_03_exact_search"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_03_exact_search" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 3: Точный поиск слова
+Loaded: doc1.txt
+Loaded: doc3.txt
+Loaded: doc2.txt
+Total documents loaded: 3
+DEBUG: Found 4 words. First 10:
+  'the'
+  'quick'
+  'brown'
+  'fox'
+Indexing complete. Unique words in index: 9
+✅ PASSED: Слово 'fox' найдено в 2 документах
+✅ PASSED: Несуществующее слово не найдено
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_03_exact_search" end time: May 25 12:52 MSK
+"scenario_03_exact_search" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/15 Testing: scenario_04_fuzzy_search
+9/15 Test: scenario_04_fuzzy_search
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_04_fuzzy_search"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_04_fuzzy_search" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 4: Нестрогий поиск с опечаткой
+Loaded: doc.txt
+Total documents loaded: 1
+DEBUG: Found 2 words. First 10:
+  'hello'
+  'world'
+Indexing complete. Unique words in index: 2
+✅ PASSED: Слово 'helo' найдено как похожее на 'hello'
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_04_fuzzy_search" end time: May 25 12:52 MSK
+"scenario_04_fuzzy_search" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/15 Testing: scenario_05_not_found
+10/15 Test: scenario_05_not_found
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_05_not_found"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_05_not_found" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 5: Поиск отсутствующего слова
+Loaded: doc.txt
+Total documents loaded: 1
+DEBUG: Found 3 words. First 10:
+  'apple'
+  'banana'
+  'cherry'
+Indexing complete. Unique words in index: 3
+✅ PASSED: Отсутствующее слово не найдено
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_05_not_found" end time: May 25 12:52 MSK
+"scenario_05_not_found" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/15 Testing: scenario_06_empty_query
+11/15 Test: scenario_06_empty_query
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_06_empty_query"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_06_empty_query" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 6: Поиск с пустым запросом
+ℹ️ Ручная проверка:
+ℹ️ 1. Оставить поле поиска пустым
+ℹ️ 2. Нажать кнопку 'Найти'
+ℹ️ 3. Должно появиться предупреждение 'Введите слово для поиска'
+ℹ️ Для автоматической проверки нужно использовать UI-тесты
+✅ PASSED: Требуется ручная проверка
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_06_empty_query" end time: May 25 12:52 MSK
+"scenario_06_empty_query" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/15 Testing: scenario_07_empty_folder
+12/15 Test: scenario_07_empty_folder
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_07_empty_folder"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_07_empty_folder" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 7: Индексация пустой папки
+Total documents loaded: 0
+Indexing complete. Unique words in index: 0
+✅ PASSED: Пустая папка обработана корректно, документов: 0
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_07_empty_folder" end time: May 25 12:52 MSK
+"scenario_07_empty_folder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/15 Testing: scenario_08_multiple_docs
+13/15 Test: scenario_08_multiple_docs
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_08_multiple_docs"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_08_multiple_docs" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 8: Поиск слова в нескольких документах
+Loaded: doc1.txt
+Loaded: doc3.txt
+Loaded: doc2.txt
+Total documents loaded: 3
+DEBUG: Found 3 words. First 10:
+  'common'
+  'word'
+  'here'
+Indexing complete. Unique words in index: 6
+✅ PASSED: Слово 'common' найдено в 2 документах
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_08_multiple_docs" end time: May 25 12:52 MSK
+"scenario_08_multiple_docs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/15 Testing: scenario_09_repeated_search
+14/15 Test: scenario_09_repeated_search
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_09_repeated_search"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_09_repeated_search" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 9: Повторный поиск
+Loaded: doc.txt
+Total documents loaded: 1
+DEBUG: Found 3 words. First 10:
+  'first'
+  'second'
+  'third'
+Indexing complete. Unique words in index: 3
+✅ PASSED: Повторные поиски работают корректно
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_09_repeated_search" end time: May 25 12:52 MSK
+"scenario_09_repeated_search" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/15 Testing: scenario_10_reindex
+15/15 Test: scenario_10_reindex
+Command: "/Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests/scenario_10_reindex"
+Directory: /Users/ilgizkazakbaev/Desktop/ВУЗ/Программирование корпоративных систем/ПРОЕКТ 4 семестр/SearchEngine/build/tests
+"scenario_10_reindex" start time: May 25 12:52 MSK
+Output:
+----------------------------------------------------------
+ℹ️ Сценарий 10: Поиск после повторной индексации
+Loaded: doc1.txt
+Total documents loaded: 1
+DEBUG: Found 1 words. First 10:
+  'apple'
+Indexing complete. Unique words in index: 1
+Loaded: doc2.txt
+Total documents loaded: 1
+Indexing complete. Unique words in index: 1
+✅ PASSED: Индекс обновлён, старые данные заменены
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"scenario_10_reindex" end time: May 25 12:52 MSK
+"scenario_10_reindex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 12:52 MSK
