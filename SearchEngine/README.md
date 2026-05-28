@@ -32,21 +32,25 @@ SearchEngine/
 ├── CMakeLists.txt # конфигурация сборки
 ├── Dockerfile # для контейнеризации
 └── README.md
+```
 
 ## Сборка проекта
 
 ```bash
 cmake -S . -B build
 cmake --build build
+```
 
 ## Запуск
 ```bash
 ./build/search_engine
+```
 
 ### Запуск тестов
 ```bash
 cd build
 ctest --output-on-failure
+```
 
 ### Или по отдельности
 ```bash
@@ -55,29 +59,35 @@ ctest --output-on-failure
 ./build/tests/test_indexer
 ./build/tests/test_inverted_index
 ./build/tests/test_search_engine
+```
 
 ## Контейнеризация
 
 ## Сборка образа
 ```bash
 docker build -t search-engine .
+```
 
 ## Запуск тестов в контейнере
 ```bash
 docker run --rm search-engine /app/tests/test_levenshtein
+```
 
 ## Запуск сценариев
 ```bash
 docker run --rm search-engine /app/tests/scenario_02_indexing
+```
 
 ## Результаты тестирования
-|---|---|
+
 | Тест | Результат |
-| test_document	| ✅ 10 assertions |
-| test_indexer	✅ 7 assertions |
+|------|-----------|
+| test_document | ✅ 10 assertions |
+| test_indexer | ✅ 7 assertions |
 | test_inverted_index | ✅ 8 assertions |
 | test_levenshtein | ✅ 7 assertions |
 | test_search_engine | ✅ 5 assertions |
+
 
 ## Паттерны проектирования
 Singleton — для инвертированного индекса;
